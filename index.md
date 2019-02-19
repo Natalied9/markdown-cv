@@ -1,26 +1,26 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Natalie Dardaine's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Natalie Dardaine
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="www.linkedin.com/in/nataliedardaine)">www.linkedin.com/in/nataliedardaine)</a>
+| <a href="nataliedardaine@gmail.com">nataliedardaine@gmail.com</a>
 </div>
 
 
-## Currently
+## Objective
 
-Standing on the shoulders of giants
+I am looking for a position in IT management to gain more hands on experience and learn new technologies.  
 
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
-### Research interests
+- Developed UI on a safety app for LA public transportation and won 2nd place at Hack.LA Mobility Hackathon 
+- Helped develop and implement security measures on a tax calculator app in Ionic framework 
+- Developed a movie screening finding app in Ionic framework and worked with a MongoDB database to save user profile information### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
