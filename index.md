@@ -5,7 +5,7 @@ title: Natalie Dardaine's CV
 # Natalie Dardaine
 
 <div id="webaddress">
-<a href="www.linkedin.com/in/nataliedardaine)">www.linkedin.com/in/nataliedardaine)</a>
+<a href="www.linkedin.com/in/nataliedardaine">www.linkedin.com/in/nataliedardaine)</a>
 | <a href="nataliedardaine@gmail.com">nataliedardaine@gmail.com</a>
 </div>
 
